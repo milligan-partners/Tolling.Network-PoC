@@ -16,4 +16,4 @@ f) Point out issues and help with troubleshooting.
 
 
 
-For Contributor License Agreement (CLA), contact us at info@tolling.network.
+For Contributor License Agreement (CLA), contact us at info@milligan.co.
